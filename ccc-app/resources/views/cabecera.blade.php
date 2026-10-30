@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ asset("css/app.css") }}">
+    <script type="module" src="{{ asset("js/app.js") }}"></script>
+    <title>{{ $title }} - Crime Case Central</title>
+</head>
+<body class="especial">
