@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="docs/CrimeCaseCentral-README-banner.png"
-     alt="Crime Case Central"
-     width="800">
+  <img src="./docu/CrimeCaseCentral-README-banner.png"
+       alt="Crime Case Central"
+       width="800">
 </p>
 
 <h1 align="center">Crime Case Central</h1>
