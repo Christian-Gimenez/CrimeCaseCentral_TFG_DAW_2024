@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="ccc-app/public/imgs/Logo-Texto_CCC.png" alt="Logotipo de Crime Case Central" width="460">
+  <img src="docs/CrimeCaseCentral-README-banner.png"
+     alt="Crime Case Central"
+     width="800">
 </p>
 
 <h1 align="center">Crime Case Central</h1>
